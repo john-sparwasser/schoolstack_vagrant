@@ -12,4 +12,5 @@ This holds the puphpet config.yaml for schoolstack
 -   Place the folder in your a sensible place; I like to put my vagrants in ~/vagrant.
 -   CD into the folder you just moved.
 -   ln -s /path/to/schoolstack/folder
+-   vagrant box update
 -   Then just run vagrant up
